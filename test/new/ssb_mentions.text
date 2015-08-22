@@ -1,5 +1,6 @@
 hello @bob and @hxGxqPrplLjRG2vtjQL87abX4QKqeLgCwQpS730nNwE=.ed25519
 this [@link](http://foo.com) and this [link](@bob)
+em *@bob*
 
 hello %msg and %rNQRDI4mK2jRtVGaBVV3AZ9ReDyBxAYdSXx4k71cHi0=.sha256
 this [%msg](http://foo.com) and this [link](%msg)
