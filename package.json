@@ -2,22 +2,39 @@
   "name": "ssb-marked",
   "description": "A markdown parser built for speed, customized for SSB",
   "author": "Christopher Jeffrey",
-  "contributors": [{ "name": "Paul Frazee" }],
-  "version": "0.3.2",
+  "contributors": [
+    {
+      "name": "Paul Frazee"
+    }
+  ],
+  "version": "0.4.0",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
   "preferGlobal": true,
   "repository": "git://github.com/ssb/marked.git",
   "homepage": "https://github.com/ssb/marked",
-  "bugs": { "url": "http://github.com/ssb/marked/issues" },
+  "bugs": {
+    "url": "http://github.com/ssb/marked/issues"
+  },
   "license": "MIT",
-  "keywords": ["markdown", "markup", "html"],
-  "tags": ["markdown", "markup", "html"],
+  "keywords": [
+    "markdown",
+    "markup",
+    "html"
+  ],
+  "tags": [
+    "markdown",
+    "markup",
+    "html"
+  ],
   "devDependencies": {
     "markdown": "*",
     "showdown": "*",
     "robotskirt": "*"
   },
-  "scripts": { "test": "node test", "bench": "node test --bench" }
+  "scripts": {
+    "test": "node test",
+    "bench": "node test --bench"
+  }
 }
