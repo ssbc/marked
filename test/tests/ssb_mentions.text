@@ -1,0 +1,8 @@
+hello @bob and @hxGxqPrplLjRG2vtjQL87abX4QKqeLgCwQpS730nNwE=.ed25519
+this [@link](http://foo.com) and this [link](@bob)
+
+hello %msg and %rNQRDI4mK2jRtVGaBVV3AZ9ReDyBxAYdSXx4k71cHi0=.sha256
+this [%msg](http://foo.com) and this [link](%msg)
+
+hello &blob and &GyBbCYYqnHOQEN2sLnXly/105lHcU3JJAllYLT2vQEI=.sha256
+this [&blob](http://foo.com) and this [link](&blob)
