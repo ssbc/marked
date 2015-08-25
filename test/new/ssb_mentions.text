@@ -7,3 +7,5 @@ this [%msg](http://foo.com) and this [link](%msg)
 
 hello &blob and &GyBbCYYqnHOQEN2sLnXly/105lHcU3JJAllYLT2vQEI=.sha256
 this [&blob](http://foo.com) and this [link](&blob)
+
+@bob @bob @bob
