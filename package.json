@@ -12,10 +12,10 @@
   "bin": "./bin/marked",
   "man": "./man/marked.1",
   "preferGlobal": true,
-  "repository": "git://github.com/ssb/marked.git",
-  "homepage": "https://github.com/ssb/marked",
+  "repository": "git://github.com/ssbc/marked.git",
+  "homepage": "https://github.com/ssbc/marked",
   "bugs": {
-    "url": "http://github.com/ssb/marked/issues"
+    "url": "http://github.com/ssbc/marked/issues"
   },
   "license": "MIT",
   "keywords": [
