@@ -7,7 +7,7 @@
       "name": "Paul Frazee"
     }
   ],
-  "version": "0.5.2",
+  "version": "0.5.3",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
