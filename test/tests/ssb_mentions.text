@@ -11,3 +11,11 @@ this [&blob](http://foo.com) and this [link](&blob)
 @bob @bob @bob
 
 %rNQRDI4mK2jRtVGaBVV3AZ9ReDyBxAYdSXx4k71cHi0=.sha256 [%rNQRDI4mK2jRtVGaBVV3AZ9ReDyBxAYdSXx4k71cHi0=.sha256]
+
+hello @bob and %40hxGxqPrplLjRG2vtjQL87abX4QKqeLgCwQpS730nNwE%3D.ed25519
+
+hello %msg and %25rNQRDI4mK2jRtVGaBVV3AZ9ReDyBxAYdSXx4k71cHi0%3D.sha256
+
+hello &blob and %26GyBbCYYqnHOQEN2sLnXly%2F105lHcU3JJAllYLT2vQEI%3D.sha256
+
+%25rNQRDI4mK2jRtVGaBVV3AZ9ReDyBxAYdSXx4k71cHi0%3D.sha256 [%25rNQRDI4mK2jRtVGaBVV3AZ9ReDyBxAYdSXx4k71cHi0%3D.sha256]
